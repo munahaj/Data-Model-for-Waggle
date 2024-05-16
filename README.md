@@ -11,3 +11,14 @@ For this reason, the product team distributed 1,000 Lapcat prototypes for field 
 **Important Notes**
 * The brands instructed to use their logo and color palettes for the report
 ![waggle-color-palette](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/7ff7d8a3-111c-4a13-89a5-7dcbc2f5e294)
+
+Below screenshots are the the final submitted report:
+
+![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/f8af67af-b4c8-4181-8641-41c75704b67e)
+![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/41e1c1ac-9f6e-4463-bcd6-0caea43c0f1c)
+![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/514794d4-da95-4c2b-abdc-e0836ee1e216)
+
+# Project/Report:
+
+
+After uploading the data, 
