@@ -40,4 +40,5 @@ For the CEO's next question, we analyzed the device rating data and created the 
 
 As a result of these visualizations, we were able to paint a clear picture of the interactions and reviews of the customers, and we concluded that the owners of the Lapdog device were more positively interactive than the owners of the Lapcat device.
 
+# Further Insights 
 
