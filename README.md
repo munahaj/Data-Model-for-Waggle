@@ -10,9 +10,8 @@ For this reason, the product team distributed 1,000 Lapcat prototypes for field 
 
 **Important Notes**
 * The brand instructed to use their logo and color palettes for the report.
-![waggle-color-palette](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/7ff7d8a3-111c-4a13-89a5-7dcbc2f5e294)
 * The brand instructed to focus on visualizations to highlight insights and other findings from the dataset.
-* There is a time gap between the Lapdog data which is dated back to 2018 and the lapcat data which begins in 2020.
+* There is a time gap between the Lapdog data which is dated back to 2018 and the Lapcat data which begins in 2020.
 
 Below screenshots are of the final submitted report:
 
@@ -29,7 +28,7 @@ After inspecting the data, we determined it was clean and did not require any fu
 
 Upon inspecting the graph, we can determine there is a significant variance between both of the devices. Although the history record for Lapcat device data begins at a much later date than the Lapdog data, we can still perceive the data variation at the recent time. 
 
-In order to assist with navigating the data, we added a slicer panel to help with filtering specific information.
+In order to assist with navigating the data, we added a slicer panel to help with filtering any specific information.
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/ff445308-f222-4a5d-b71a-c77d4d7d6901)
 
