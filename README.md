@@ -34,9 +34,9 @@ In order to assist with navigating the data, we added a slicer panel to help wit
 
 For the CEO's next question, we analyzed the device rating data and created the visuals necessary to provide clear insights into customer feedback (Line, Pie and bar charts).
 
-![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/7a35042c-a12c-4891-a398-1d79f512639e)
+![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/d5b4fb49-2de2-4b34-947c-ccd96da2d8e1)
 
-![image](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/5357ab5f-7fa1-4f0d-8f4b-556c9ab8d144)
+![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/a89085d3-9cea-4f37-b67e-dd4ee33e672c)
 
 As a result of these visualizations, we were able to paint a clear picture of the interactions and reviews of the customers, and we concluded that the owners of the Lapdog device were more positively interactive than the owners of the Lapcat device.
 
