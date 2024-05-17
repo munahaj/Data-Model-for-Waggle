@@ -22,11 +22,11 @@ Below screenshots are of the final submitted report:
 ![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/514794d4-da95-4c2b-abdc-e0836ee1e216)
 
 # Project/Report:
-After inspecting the data, we determined it was clean and did not require any further amendments. Then we proceeded with answering the CEO's first question, which was to find if there were any noticeable differences in the average daily steps between the cats and the dogs. Since we already have the tracking data that monitors their daily steps; we were able to create a visualization board (Line Chart) to do the needed comparison. 
+After inspecting the data, we determined it was clean and did not require any further amendments. Then we proceeded with answering the CEO's first question, which was to find if there were any noticeable differences in the average daily steps between the cats and the dogs and if the average daily steps increase for cats wearing the device as they did for dogs. Since we already have the tracking data that monitors their daily steps; we were able to create a visualization board (Line Chart) to do the needed comparison. 
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/ce8daa33-5ccc-49b2-8675-3862d7aaec88)
 
-Upon inspecting the graph, we can determine there is a significant variance between both of the devices. Although the history record for Lapcat device data begins at a much later date than the Lapdog data, we can still perceive the data variation at the recent time. The 
+Upon inspecting the graph, we can determine there is a notible variance between both of the devices. Although the history record for Lapcat device data begins at a much later date than the Lapdog data, we can still perceive the data variation at the recent time. In addition, the record shows that cats wearing the device walked significantly fewer steps each day than dogs wearing Lapdogs.
 
 In order to assist with navigating the data, we added a slicer panel to help with filtering any specific information.
 
