@@ -26,7 +26,7 @@ After inspecting the data, we determined it was clean and did not require any fu
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/ce8daa33-5ccc-49b2-8675-3862d7aaec88)
 
-Upon inspecting the graph, we can determine there is a significant variance between both of the devices. Although the history record for Lapcat device data begins at a much later date than the Lapdog data, we can still perceive the data variation at the recent time. 
+Upon inspecting the graph, we can determine there is a significant variance between both of the devices. Although the history record for Lapcat device data begins at a much later date than the Lapdog data, we can still perceive the data variation at the recent time. The 
 
 In order to assist with navigating the data, we added a slicer panel to help with filtering any specific information.
 
