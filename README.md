@@ -41,7 +41,7 @@ For the CEO's next question, we analyzed the device rating data and created the 
 As a result of these visualizations, we were able to paint a clear picture of the interactions and reviews of the customers, and we concluded that the owners of the Lapdog device were more positively interactive than the owners of the Lapcat device.
 
 # Further Insights 
-Emphasising on general pet data can help with understanding the end users and their behaviour, and thus to develop a better understanding of the consuming market as a whole. Therefore, we provided a visualization summary report for pets and their owners to observe and analyze their daily patterns and personal information hence exploring more ideas.
+To better understand the consuming market as a whole, we provided a visualization summary report for pets and their owners to observe and analyze their daily patterns and personal information hence exploring more ideas.
 
 ![Untitled](https://github.com/munahaj/Data-Model-for-Waggle/assets/169274166/83e9bed7-bff8-430c-b377-930f98a566e7)
 
